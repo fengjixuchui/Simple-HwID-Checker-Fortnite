@@ -2,12 +2,3 @@
 HwID Fortnite Checker to see if you are spoofed
 
 
-
-
-
-
-
-
-
-
-
